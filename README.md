@@ -55,6 +55,4 @@ It focuses on performing **Exploratory Data Analysis (EDA)** on a small Laptop d
 
 ---
 
-This completes **Task 2 - EDA**.  
-(Next step: Task 3 - Visualization 📊)
 
