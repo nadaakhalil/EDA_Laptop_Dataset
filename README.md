@@ -1,6 +1,6 @@
 # Task 2 - Exploratory Data Analysis (EDA)
 
-## 📋 Project Description:
+## Project Description:
 
 This project is part of my Data Analytics coursework.  
 It focuses on performing **Exploratory Data Analysis (EDA)** on a small Laptop dataset.
